@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://amanovar.github.io/momoye/index.html</loc>
-    <lastmod>2025-11-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<!-- Main Page -->
+<url>
+  <loc>https://amanovar.github.io/momoye/</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
 
-  <url>
-    <loc>https://amanovar.github.io/momoye/about.html</loc>
-    <lastmod>2025-11-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<!-- All Calculators -->
+<url><loc>https://amanovar.github.io/momoye/Polygon-Perimeter-Calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/Calorie-Calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/Date-Calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/Time-Calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/SIP-Calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/emi.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/prcentage.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/Age.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/BMI.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/rational-calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/Dynamic-GPA-Calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/Fuel-Consumption-Calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/Land-Value-Manager.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/multiplication.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/Square-Plot-Calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/fraction-addition-calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/hexa-to-decimal-calculator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/QR-Code-Generator.html</loc></url>
+<url><loc>https://amanovar.github.io/momoye/ecommerce-invoice.html</loc></url>
 
 </urlset>
-
